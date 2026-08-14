@@ -1,5 +1,5 @@
 build:
   id: 10110
   version: 1.2.4
-  name: "Dev-Git-Production-Build"
+  name: "Default-Git-Dev-Build"
   type: "Development Build"
